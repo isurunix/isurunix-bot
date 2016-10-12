@@ -27,11 +27,11 @@ import twitter4j.auth.AccessToken;
  */
 public class IsurunixBot 
 {
-	private final String CONSUMER_KEY = "f0MyqzTYfUuKw4k54yBDevAMj";
-    private final String CONSUMER_KEY_SECRET = "V0C3C6bS7nzyUXAj04N9rq6uiXaoj3nmo2rtK7JBtNdOA9cTtO";
+	private final String CONSUMER_KEY = "YOUR_CONSUMER_KEY";
+    private final String CONSUMER_KEY_SECRET = "YOUR_CONSUMER_KEY_SECRET";
 
-    private final String ACCESS_TOKEN = "162311701-a5PAcjH0YvA2QZUr3m1FkNKMPP1aurvwYkULXuvh";
-    private final String ACCESS_TOKEN_SECRET = "OYmUzq9dKVfxPPHKXSYmKwAcTKARCKtjsToi2xlrbwk4D";
+    private final String ACCESS_TOKEN = "YOUR_ACCESS_TOKEN";
+    private final String ACCESS_TOKEN_SECRET = "YOUR_ACCESS_TOKEN_SECRET";
 
     private Twitter isurunix;
     private AccessToken accToken;
